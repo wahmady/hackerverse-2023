@@ -1,2 +1,2 @@
 # hackerverse-2023
-Alex + Wahab hackathon 2023
+hackathon 2023
